@@ -17,36 +17,41 @@ export const DAILY_CHALLENGES: GameData[] = [
   {
     answer: 'The Lion King',
     answerPortuguese: 'O Rei Leão',
-    imageUrl: 'https://images.pexels.com/photos/162140/lion-roxo-lioness-lion-cub-162140.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/199/4k-lionking/full/4k-lionking-animationscreencaps.com-13028.jpg?ssl=1',
   },
   {
     answer: 'Frozen',
     answerPortuguese: 'Frozen: Uma Aventura Congelante',
-    imageUrl: 'https://images.pexels.com/photos/899659/pexels-photo-899659.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/img.screencaps.us/201/4k-frozen/full/4k-frozen-animationscreencaps.com-14652.jpg?ssl=1',
   },
   {
     answer: 'Moana',
     answerPortuguese: 'Moana: Um Mar de Aventuras',
-    imageUrl: 'https://images.pexels.com/photos/1001682/pexels-photo-1001682.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/201/4k-moana/full/4k-moana-animationscreencaps.com-15660.jpg?ssl=1',
   },
   {
     answer: 'Aladdin',
     answerPortuguese: 'Aladdin',
-    imageUrl: 'https://images.pexels.com/photos/1577735/pexels-photo-1577735.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/199/4k-aladdin/full/4k-aladdin-animationscreencaps.com-15127.jpg?ssl=1',
   },
   {
     answer: 'Beauty and the Beast',
     answerPortuguese: 'A Bela e a Fera',
-    imageUrl: 'https://images.pexels.com/photos/133472/rose-rose-blossom-bloom-133472.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/199/4k-batb/full/4k-batb-animationscreencaps.com-9395.jpg?ssl=1',
   },
   {
     answer: 'Cinderella',
     answerPortuguese: 'Cinderela',
-    imageUrl: 'https://images.pexels.com/photos/277406/pexels-photo-277406.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/195/4k-0-cinderella/full/4k-cinderella-animationscreencaps.com-5453.jpg?ssl=1',
   },
   {
     answer: 'The Little Mermaid',
     answerPortuguese: 'A Pequena Sereia',
-    imageUrl: 'https://images.pexels.com/photos/3214798/pexels-photo-3214798.jpeg?auto=compress&cs=tinysrgb&w=800',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/198/9-tlm/full/little-mermaid-1080p-disneyscreencaps.com-3121.jpg?ssl=1',
+  },
+  {
+    answer: 'Hercules',
+    answerPortuguese: 'Hércules',
+    imageUrl: 'https://i0.wp.com/imgs.screencaps.us/199/7-hercules-br/full/hercules-br-disneyscreencaps.com-1447.jpg?ssl=1',
   }
 ];
