@@ -1,0 +1,5 @@
+{
+  "name": "Disney Daily Guesser",
+  "description": "A daily Disney guessing game where you get 5 tries to guess a character or movie from a blurred image. A new challenge appears every day!",
+  "requestFramePermissions": []
+}
